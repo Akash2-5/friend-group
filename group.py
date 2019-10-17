@@ -2,4 +2,5 @@
 
 # Your code to go here...
 
-my_group =
+Jill  = {'name' : 'Jill', 'age' : '26, 'job' : 'biologist', 'connection': {'friend' : 'Zalika', 'partner' : 'John'}}  
+Zalika  = {'name' : 'Zalika', 'age' : '28, 'job' : 'artist', 'connection': {'friend' : 'Jill', 'partner' : 'Joh'}}
